@@ -1,0 +1,9 @@
+{
+    "person": {"name": "Alice",
+  "age": 25,
+              "address": {"city": "Wonderland",
+        "country": "Fictionland"
+      },      "hobbies": ["reading", "painting", "coding"]
+}
+  }
+  
